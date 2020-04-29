@@ -1,0 +1,251 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 15661,
+  "clippingMaskMode": 0,
+  "do_objectID": "342561D1-B5CD-4D8A-91AF-5582E2E9E5B5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 472,
+    "width": 344,
+    "x": 21830,
+    "y": 512
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": true,
+    "thickGridTimes": 40
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A84B1847-6002-44E8-A40A-03487C15E023"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21A53A38-529E-4252-89F3-24B87E1217BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31A86EEB-6504-4C29-B751-6C63C0192E0B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACF0FEA1-20EC-445B-9CD2-4AC5C249156A"
+    },
+    {
+      "class": "group",
+      "id": "161D5977-6809-4561-9C01-CE868C1B3181"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E3C0D03-8AF7-4067-8EA8-05C898AB1EED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B35F84A0-A933-4050-84EC-7BEA45DC69A5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DBB7D4A3-0364-47DB-9200-EA82E6CB821B"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 48,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": false,
+    "gutterHeight": 4,
+    "gutterWidth": 2904,
+    "guttersOutside": false,
+    "horizontalOffset": -123,
+    "isEnabled": false,
+    "numberOfColumns": 2,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 3000
+  },
+  "name": "Cards / Multi-image / Outlined / Selected",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DBB7D4A3-0364-47DB-9200-EA82E6CB821B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B35F84A0-A933-4050-84EC-7BEA45DC69A5_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": false,
+      "overrideName": "B35F84A0-A933-4050-84EC-7BEA45DC69A5/4612DCBF-3C33-46E6-9A22-FACCCF8F9AEC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3E3C0D03-8AF7-4067-8EA8-05C898AB1EED_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7CFD8713-3727-4B14-900F-96D6CDEA8914_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "DF909DFE-1335-4DF0-8F32-934B72614DF6_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "488AA92A-8287-4B7C-91CB-71F892DD0F79_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8BDB5296-BEE7-4C62-A7D1-16322D658DA4_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "BE012E7C-5DA3-4137-80C9-0E19E9132C0D_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "ACF0FEA1-20EC-445B-9CD2-4AC5C249156A_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "31A86EEB-6504-4C29-B751-6C63C0192E0B_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "21A53A38-529E-4252-89F3-24B87E1217BD_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "A84B1847-6002-44E8-A40A-03487C15E023_layerStyle"
+    }
+  ],
+  "presetDictionary": {
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "10F5F052-DC5B-4CEF-A400-681C48CE84F7",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1D2E2B2E-58B6-4B58-89EA-8BA7B9460D48",
+  "userInfo": {
+    "com.google.ux.material.spec_tools": {
+      "cornerSizesDp": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "theme": "{\"lastUpdatedUtc\":\"2020-04-29T03:33:38\",\"palettes\":{\"PRIMARY\":{\"colors\":[{\"red\":0.9803921568627451,\"green\":0.9803921568627451,\"blue\":0.9803921568627451,\"alpha\":1},{\"red\":0.9607843137254902,\"green\":0.9607843137254902,\"blue\":0.9607843137254902,\"alpha\":1},{\"red\":0.9333333333333333,\"green\":0.9333333333333333,\"blue\":0.9333333333333333,\"alpha\":1},{\"red\":0.8784313725490196,\"green\":0.8784313725490196,\"blue\":0.8784313725490196,\"alpha\":1},{\"red\":0.7411764705882353,\"green\":0.7411764705882353,\"blue\":0.7411764705882353,\"alpha\":1},{\"red\":0.6196078431372549,\"green\":0.6196078431372549,\"blue\":0.6196078431372549,\"alpha\":1},{\"red\":0.4588235294117647,\"green\":0.4588235294117647,\"blue\":0.4588235294117647,\"alpha\":1},{\"red\":0.3803921568627451,\"green\":0.3803921568627451,\"blue\":0.3803921568627451,\"alpha\":1},{\"red\":0.25882352941176473,\"green\":0.25882352941176473,\"blue\":0.25882352941176473,\"alpha\":1},{\"red\":0.12941176470588237,\"green\":0.12941176470588237,\"blue\":0.12941176470588237,\"alpha\":1}],\"mainColorIndex\":9},\"SECONDARY\":{\"colors\":[{\"red\":0.8837575416733764,\"green\":0.9678486787374013,\"blue\":0.9817677169833158,\"alpha\":1},{\"red\":0.7122396236842223,\"green\":0.9200559797252458,\"blue\":0.9523681756751569,\"alpha\":1},{\"red\":0.5328089916697312,\"green\":0.8684276053611552,\"blue\":0.9216832778045619,\"alpha\":1},{\"red\":0.3689456981239414,\"green\":0.8128394443690123,\"blue\":0.8849546222103959,\"alpha\":1},{\"red\":0.2775257698066953,\"green\":0.7730034622047302,\"blue\":0.8550622145706419,\"alpha\":1},{\"red\":0.24313725490196078,\"green\":0.7333333333333333,\"blue\":0.8274509803921568,\"alpha\":1},{\"red\":0.2250340998202351,\"green\":0.6706850335068149,\"blue\":0.7528665603575594,\"alpha\":1},{\"red\":0.2022466012086912,\"green\":0.5883768644176062,\"blue\":0.6511661995455532,\"alpha\":1},{\"red\":0.1835431155777378,\"green\":0.5098556910347818,\"blue\":0.5567699560001369,\"alpha\":1},{\"red\":0.1492306975333574,\"green\":0.37205671706738674,\"blue\":0.3891447314705412,\"alpha\":1}],\"mainColorIndex\":5},\"SURFACE\":{\"colors\":[{\"red\":1,\"green\":1,\"blue\":1,\"alpha\":1},{\"red\":0.9807089859888657,\"green\":0.9807090923474681,\"blue\":0.9807090166169335,\"alpha\":1},{\"red\":0.9614896126428832,\"green\":0.9614897160775632,\"blue\":0.9614896423314422,\"alpha\":1},{\"red\":0.9423426493624547,\"green\":0.942342746714893,\"blue\":0.9423426768771614,\"alpha\":1},{\"red\":0.8692227753206838,\"green\":0.8692228576649179,\"blue\":0.8692227977439545,\"alpha\":1},{\"red\":0.762033684573245,\"green\":0.7620337541261238,\"blue\":0.7620337031299386,\"alpha\":1},{\"red\":0.5902992747236278,\"green\":0.5902993277528529,\"blue\":0.5902992886361145,\"alpha\":1},{\"red\":0.504871739011006,\"green\":0.5048717839890382,\"blue\":0.504871750679026,\"alpha\":1},{\"red\":0.37657369588808237,\"green\":0.3765737282854163,\"blue\":0.37657370399423673,\"alpha\":1},{\"red\":0.2366709262652505,\"green\":0.23667094522274518,\"blue\":0.2366709305962576,\"alpha\":1}],\"mainColorIndex\":0}},\"cornerType\":\"ROUNDED\",\"cornerSizesDp\":[4,4,4,4],\"textStyles\":{\"HEADLINE_1\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":101.4375}},\"HEADLINE_2\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":63.3984375}},\"HEADLINE_3\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":50.71875}},\"HEADLINE_4\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":35.92578125}},\"HEADLINE_5\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":25.359375}},\"HEADLINE_6\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},\"metrics\":{\"fontSize\":21.1328125}},\"SUBTITLE_1\":{\"font\":{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":15.795620437956204}},\"SUBTITLE_2\":{\"font\":{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"SemiBold\",\"traits\":2,\"weight\":8},\"metrics\":{\"fontSize\":13.696202531645568}},\"BODY_1\":{\"font\":{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":15.795620437956204}},\"BODY_2\":{\"font\":{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":13.821167883211679}},\"CAPTION\":{\"font\":{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":11.846715328467154}},\"BUTTON\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":14.79296875}},\"OVERLINE\":{\"font\":{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},\"metrics\":{\"fontSize\":12.6796875}}},\"selectedFontFamilies\":[{\"name\":\"Open Sans\",\"fonts\":[{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Italic\",\"traits\":1,\"weight\":5},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Light\",\"traits\":0,\"weight\":3},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Light Italic\",\"traits\":1,\"weight\":3},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"SemiBold\",\"traits\":2,\"weight\":8},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"SemiBold Italic\",\"traits\":3,\"weight\":8},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"Bold Italic\",\"traits\":3,\"weight\":9},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"ExtraBold\",\"traits\":2,\"weight\":10},{\"fontFamilyName\":\"Open Sans\",\"fontName\":\"ExtraBold Italic\",\"traits\":3,\"weight\":10}]},{\"name\":\"PT Sans\",\"fonts\":[{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Regular\",\"traits\":0,\"weight\":5},{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Italic\",\"traits\":1,\"weight\":5},{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Bold\",\"traits\":2,\"weight\":9},{\"fontFamilyName\":\"PT Sans\",\"fontName\":\"Bold Italic\",\"traits\":3,\"weight\":9}]}]}",
+      "themeMetadataVersion": 4,
+      "type": "cards"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
