@@ -117,6 +117,10 @@
     },
     {
       "class": "symbolMaster",
+      "id": "0FDEF037-6F5D-40E1-B34D-C173DDDA80AE"
+    },
+    {
+      "class": "symbolMaster",
       "id": "DA2297EF-8617-4AF4-AF0E-51D20A928D46"
     },
     {
@@ -185,7 +189,15 @@
     },
     {
       "class": "symbolMaster",
+      "id": "0BB8D27D-2E52-47C7-ACBD-00C4F7346DF8"
+    },
+    {
+      "class": "symbolMaster",
       "id": "08503248-3702-40F2-BC62-16E8420469ED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "00FA42AF-61A7-46EB-A786-48E72B8F4FDF"
     },
     {
       "class": "symbolMaster",
@@ -1549,6 +1561,22 @@
     },
     {
       "class": "symbolMaster",
+      "id": "581F6340-3131-4881-9E94-B5E2D4309C07"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A0B57445-6625-47C8-B96F-214A3D5C8B4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6072A198-50F0-49CA-8211-D5B1925B9882"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "84E6966A-C91A-414D-830F-F9E8CCCF9783"
+    },
+    {
+      "class": "symbolMaster",
       "id": "38DF8E24-77CF-4AF3-8CE4-A5CCC9ABCC76"
     },
     {
@@ -2626,6 +2654,10 @@
     {
       "class": "symbolMaster",
       "id": "9B6613BB-1CBD-4B57-9C09-008CBECB8624"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7C745D9B-0B74-4017-9F5A-76810A532C81"
     },
     {
       "class": "symbolMaster",
@@ -6094,6 +6126,10 @@
     {
       "class": "symbolMaster",
       "id": "942FA34A-6CB0-426B-B423-A838641EEA72"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BC9D6DE2-6CEE-42F7-BC28-21F6B36406F6"
     }
   ],
   "layout": {
@@ -6164,6 +6200,9 @@
     "windingRule": 1
   },
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    },
     "com.betterthantomorrow.sketch.distributor": {
       "distributorDimension": 0,
       "distributorSpacing": "12"

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 681,
+  "changeIdentifier": 682,
   "clippingMaskMode": 0,
   "do_objectID": "0741C901-BC45-4023-8789-53B9E77FF84A",
   "exportOptions": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -81,11 +81,6 @@
   "name": "✱ / CURSOR TYPE / Hand",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "C8B6F237-B534-4247-AFD2-AB082BDD075F_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,

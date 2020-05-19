@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 1894,
+  "changeIdentifier": 1895,
   "clippingMaskMode": 0,
   "do_objectID": "6213EFF7-5EE1-4830-BA51-72ECFEB2642D",
   "exportOptions": {
@@ -39,7 +39,7 @@
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -85,11 +85,6 @@
   "name": "Icon / Search / Filled",
   "nameIsFixed": true,
   "overrideProperties": [
-    {
-      "_class": "MSImmutableOverrideProperty",
-      "canOverride": true,
-      "overrideName": "3AAA13B7-F530-4FF4-BD8C-320ECF872F84_image"
-    },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
